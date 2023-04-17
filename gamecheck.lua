@@ -1,4 +1,4 @@
-if game.PlaceId == then
+if game.PlaceId == 13106612654 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SaadeHub/hub/main/123.lua"))()
 --FiveR
  --[[
