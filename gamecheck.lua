@@ -4,4 +4,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/SaadeHub/hub/main/PWS
 elseif game.PlayerId == 5938036553 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SaadeHub/hub/main/FL.lua"))() 
 --Frontlines
+elseif game.PlaceId == 11818704485 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SaadeHub/hub/main/DES.lua"))() 
+--Damage Every Second
 end
