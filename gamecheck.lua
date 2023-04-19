@@ -9,4 +9,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/SaadeHub/hub/main/DES
 --Damage Every Second
 elseif game.PlaceId == 9648883891 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SaadeHub/hub/main/FT.lua"))() 
+--Leeuwarden
+elseif game.PlaceId == 4520619420 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SaadeHub/hub/main/LWD.lua"))() 
 end
